@@ -1,7 +1,7 @@
 # epycDissertation
 Repository for my MSc dissertation"Investigating the relationship between network properties and the spread of disease"
 
-Three Notebook files to support our research. 
+Three Notebook files to support our research. \n
 -ModularNetwork.ipynb
  This notebook is mainly responsible for constructing the modular network and performing experiments over it. 
 -CorePeripheryNetwork.ipynb
